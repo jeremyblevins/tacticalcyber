@@ -156,4 +156,6 @@ hr {
 .resized-image {
   width: 300px;
   height: auto;
+.image-margin {
+  margin: 20px;
 }
