@@ -12,7 +12,7 @@
   --gray-light: 229, 233, 240;
   --gray-dark: 34, 41, 57;
   --gray-gradient: rgba(var(--gray-light), 50%), #fff;
-  --green-light; #769164;
+  --green-light: #769164;
   --green-dark: #415732;
   --green-gradient: rgba(var(--green-light), 50%), #fff;
   --box-shadow:
