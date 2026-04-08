@@ -3,3 +3,4 @@
 
 export const SITE_TITLE = "Tactical Cyber, LLC";
 export const SITE_DESCRIPTION = "Tactical Cyber delivers managed IT and cybersecurity services that strengthen defenses, reduce risk, and keep businesses operational.";
+export const TITLE = "Tactical Cyber, LLC";

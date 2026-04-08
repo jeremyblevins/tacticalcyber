@@ -6,7 +6,7 @@ import Layout from '../layouts/BlogPost.astro';
 	title="Company Profile"
 	description="Lorem ipsum dolor sit amet"
 	pubDate={new Date('April 08 2026')}
-	heroImage="TC_Logo.png"
+	heroImage="/TC_Logo.png"
 >
 	<h1>Our Story</h1>
 	<p>
@@ -29,28 +29,43 @@ import Layout from '../layouts/BlogPost.astro';
 		Today, Tactical Cyber supports a diverse client base across professional services, education, and small enterprise environments, delivering managed IT, cybersecurity monitoring, and risk advisory services with a focus on reliability and clarity.
 	</p>
 	<hr>
+	<div style="padding: 15px; background-color: #f0f8ff; margin-bottom: 25px;">
 	<h1>Leadership Team</h1>
-	<h2>Founder & CEO — Daniel Mercer</h2>
+	<details>
+	<summary style="cursor: zoom-in;"><strong>Founder & CEO — Daniel Mercer</strong></summary>
 	<p>Daniel Mercer founded Tactical Cyber after more than a decade working in IT operations and cybersecurity roles across both public and private sectors. His early career focused on network administration and infrastructure support, where he developed a strong appreciation for the operational realities that many security programs overlook.</p>
 	<p>Over time, Mercer transitioned into security engineering and incident response, supporting organizations through ransomware events and large-scale system disruptions. These experiences shaped his belief that effective cybersecurity must be grounded in disciplined IT operations.</p>
 	<p>As CEO, he continues to guide the company’s strategic direction, emphasizing sustainable security practices, client transparency, and long-term risk reduction.</p>
-	<h2>VP of Business Development — Rachel Kim</h2>
+	</details>
+	<details>
+	<summary style="cursor: zoom-in;"><strong>VP of Business Development — Rachel Kim</strong></summary>
 	<p>Rachel Kim leads business development and client engagement strategy for Tactical Cyber. She brings a background in technology consulting and account management, with experience translating complex technical services into practical business value.</p>
 	<p>Kim has worked extensively with small and mid-sized organizations, helping leadership teams understand risk exposure and align IT investments with operational goals. Her approach focuses on building long-term partnerships rather than transactional service relationships.</p>
 	<p>At Tactical Cyber, she oversees client onboarding, service alignment, and strategic growth initiatives.</p>
-	<h2>Chief Security Officer (CSO) — Marcus Alvarez</h2>
+	</details>
+	<details>
+	<summary style="cursor: zoom-in;"><strong>Chief Security Officer (CSO) — Marcus Alvarez</strong></summary>
 	<p>Marcus Alvarez serves as Chief Security Officer, responsible for the design and oversight of Tactical Cyber’s security services. His background includes security operations, threat detection, and incident response across managed environments.</p>
 	<p>Alvarez has led the implementation of monitoring programs, vulnerability management initiatives, and security awareness efforts for organizations with limited internal security resources. He is particularly focused on building repeatable, measurable security processes that scale effectively.</p>
 	<p>At Tactical Cyber, he directs the company’s security architecture, monitoring strategy, and response capabilities.</p>
+	</details></div>
 	<hr>
+	<div style="padding: 15px; background-color: #f0f8ff; margin-bottom: 25px;">
 	<h1>Board of Directors</h1>
-	<h2>Evelyn Carter</h2>
+	<details>
+	<summary style="cursor: zoom-in;"><strong>Evelyn Carter</strong></summary>
 	<p>Evelyn Carter brings over 20 years of executive leadership experience in managed IT services. She has held senior roles in regional MSP organizations, guiding growth from small service teams to multi-state operations.</p>
 	<p>Her expertise in service delivery models and operational scaling provides Tactical Cyber with strategic insight into sustainable expansion and client service consistency.</p>
-	<h2>Thomas Whitaker</h2>
+	</details>
+	<details>
+	<summary style="cursor: zoom-in;"><strong>Thomas Whitaker</strong></summary>
 	<p>Thomas Whitaker is a former finance executive with experience in technology firms and professional services organizations. His background includes financial planning, risk management, and organizational governance.</p>
 	<p>Whitaker advises Tactical Cyber on financial strategy, pricing models, and long-term operational stability.</p>
-	<h2>Dr. Alan Reeves</h2>
+	</details>
+	<details>
+	<summary style="cursor: zoom-in;"><strong>Dr. Alan Reeves</strong></summary>
 	<p>Dr. Alan Reeves has an academic and consulting background in information security and risk management. He has contributed to research and advisory efforts related to cybersecurity frameworks and organizational resilience.</p>
 	<p>At Tactical Cyber, he provides guidance on aligning services with industry standards and evolving risk landscapes.</p>
+	</details>
+	</div>
 </Layout>
