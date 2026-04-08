@@ -137,7 +137,7 @@ blockquote {
 }
 hr {
   border: none;
-  border-top: 1px solid rgb(var(--green-dark);
+  border-top: 1px solid rgb(var(--green-dark));
 }
 @media (max-width: 1024px) {
   body {
