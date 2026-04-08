@@ -6,7 +6,7 @@ heroImage: "/TC_Logo.png"
 ---
 
 **Tactical Cyber**
-![Tactical Cyber Employee](./TC_employee.png)
+![Tactical Cyber Employee](/TC_employee.png)
 
 ## Overview
 Tactical Cyber is seeking a motivated Junior Penetration Tester to support security assessments across client environments. This role is ideal for individuals who possess strong technical fundamentals, a disciplined approach to problem-solving, and a desire to develop offensive security skills in a professional setting.
