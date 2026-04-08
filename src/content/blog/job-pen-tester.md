@@ -1,12 +1,11 @@
 ---
 title: "Job Posting: Jr. Penetration Tester"
 description: Penetration Tester | Remote / Hybrid (U.S.-based preferred)"
-pubDate: "Jun 19 2024"
+pubDate: "April 008, 2026"
 heroImage: "/TC_Logo.png"
 ---
-
-**Tactical Cyber**
-![Tactical Cyber Employee](/TC_employee.png)
+<center>
+![Tactical Cyber Employee](/TC_employee.png)</center>
 
 ## Overview
 Tactical Cyber is seeking a motivated Junior Penetration Tester to support security assessments across client environments. This role is ideal for individuals who possess strong technical fundamentals, a disciplined approach to problem-solving, and a desire to develop offensive security skills in a professional setting.
